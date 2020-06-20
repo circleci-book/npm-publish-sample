@@ -1,5 +1,5 @@
 {
-  "name": "npm-publish-sample",
+  "name": "circleci-book-npm-publish-sample",
   "version": "1.0.0",
   "description": "[![circleci-book](https://circleci.com/gh/circleci-book/npm-publish-sample.svg?style=svg)](https://circleci.com/gh/circleci-book/npm-publish-sample)",
   "main": "index.js",
