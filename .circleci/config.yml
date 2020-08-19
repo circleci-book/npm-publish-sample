@@ -3,7 +3,7 @@ version: 2.1
 jobs:
   npm_publish_job:
     docker:
-      - image: circleci/node
+      - image: cimg/node:lts
     steps:
       - checkout
       - run:
